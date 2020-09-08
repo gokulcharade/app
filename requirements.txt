@@ -1,0 +1,3 @@
+pycountry
+plotly.express
+pandas
